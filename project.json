@@ -1,6 +1,20 @@
 {
-  "slug": "abu-nawaf-services",
-  "url": "https://abu-nawaf-services-wcfq.arcada.app/",
-  "title": "Abu Nawaf Services",
-  "desc": "خدمات أبو نواف (صفحة خدمات)."
+  "name": "abu-nawaf-services",
+  "title": "موقع ابونواف — فريق ابونواف للتقنية والخدمات الأمنية",
+  "category": "مواقع ابونواف",
+  "description": "الموقع التعريفي لفريق ابونواف — تقنية وخدمات أمنية.",
+  "liveUrl": "https://abu-nawaf-services-wcfq.arcada.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "فريق ابونواف | تقنية وخدمات أمنية",
+  "originalDescription": "",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "assets/index-CgwtYCIl.js",
+    "assets/index-q528rYy9.css",
+    "team-logo.jpg"
+  ]
 }
