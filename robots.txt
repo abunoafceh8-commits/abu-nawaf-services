@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abu-nawaf-services.vercel.app/sitemap.xml
