@@ -1,4 +1,9 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "framework": null,
+  "rewrites": [
+    { "source": "/api/services", "destination": "/api/services" },
+    { "source": "/api/requests", "destination": "/api/requests" }
+  ]
 }
